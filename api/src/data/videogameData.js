@@ -99,8 +99,8 @@ const getVideogameId = async (id) =>{
 
             if(!game) throw { status: 400, message: "Error, Videogame not exist"};
 
-            game = JSON.stringify(game);
-            game = JSON.parse(game);
+            // game = JSON.stringify(game); only with fetch
+            // game = JSON.parse(game);  only with fetch
 
             game.genres = game.genres.map((genre) => genre.name);
             game.platforms = game.platforms.map((platform)=> platform.name);
