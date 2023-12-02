@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Uploaded to SVGRepo https://www.svgrepo.com -->
+    <title>tag</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Vivid.JS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vivid-Icons" transform="translate(-590.000000, -332.000000)">
+            <g id="Icons" transform="translate(37.000000, 169.000000)">
+                <g id="tag" transform="translate(546.000000, 156.000000)">
+                    <g transform="translate(7.000000, 7.000000)" id="Shape">
+                        <polygon fill="#FF6E6E" points="0.008 19.205 19.215 0 35 0 35 15 16 35"></polygon>
+                        <path d="M3.8,19.205 L6.326,16.679 L18.326,28.679 L15.795,31.2 L3.8,19.205 Z M24.951,5.629 C25.8449372,4.73472644 27.1895778,4.4670636 28.3578283,4.95084009 C29.5260788,5.43461658 30.2878315,6.57454401 30.2878315,7.839 C30.2878315,9.10345599 29.5260788,10.2433834 28.3578283,10.7271599 C27.1895778,11.2109364 25.8449372,10.9432736 24.951,10.049 C23.7307754,8.82831624 23.7307754,6.84968376 24.951,5.629 Z" fill="#0C0058"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
